@@ -9,4 +9,5 @@ nombre: Monserrat Lemus Ramirez
 3.- Salir con mi familia o amigos   
 
 1 Meta 
-1.- Entender mejor para que sirve cada parte de codigo y aprender a crear paginas web bien ordenadas
+1.- Entender mejor para que sirve cada parte de codigo y aprender a crear paginas web bien ordenadas 
+Esta es un modificacion hecha por evelyn
